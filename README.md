@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **AOSP devlopment!**
 
-- 👨‍💻 All of my projects are available at [My Github page.](My Github page.)
+- 👨‍💻 All of my projects are available at My Github page.
 
-- 📫 How to reach me **sinhasarthak56@gmail.com**
+- 📫 How to reach me **rythoid@gmail.com**
 
 - ⚡ Fun fact **Tech geek & Ani-Manga fan!**
 

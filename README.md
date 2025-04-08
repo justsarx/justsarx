@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justsarx" alt="justsarx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justsarx&rank=-C,-B&theme=gitdimmed&no-frame=true" alt="justsarx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/justsarx_" target="blank"><img src="https://img.shields.io/twitter/follow/justsarx_?logo=twitter&style=for-the-badge" alt="justsarx_" /></a> </p>
 

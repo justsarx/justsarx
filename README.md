@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently  **Preparing for future**
 
-- 🌱 I’m currently learning Linux, Android.**
+- 🌱 I’m currently learning **Linux, Android.**
 
 - 🤝 I’m looking for help with **AOSP devlopment!**
 

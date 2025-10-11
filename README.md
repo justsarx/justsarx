@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **rythoid@gmail.com**
 
-- ⚡ Fun fact **Tech geek & Ani-Manga fan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

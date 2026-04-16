@@ -190,7 +190,7 @@
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsarx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd6f4&langs_count=8&hide=c" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsarx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd6f4&langs_count=8" width="100%"/>
 
 </td>
 <td width="50%" align="center">

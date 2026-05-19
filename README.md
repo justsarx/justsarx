@@ -45,20 +45,21 @@
 ### `> connect --all`
 
 <a href="https://linkedin.com/in/justsarx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/justsarx_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://x.com/justsarx_"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:sinhasarthak56@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.leetcode.com/justsarx"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://atcoder.jp/users/justsarx"><img src="https://img.shields.io/badge/AtCoder-Active_Learner-222222?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/justsarx"><img src="https://img.shields.io/badge/CodeChef-1390-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://atcoder.jp/users/justsarx"><img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/justsarx"><img src="https://img.shields.io/badge/CodeChef-1251-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=justsarx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=89ddff&text_color=cdd6f4&ring_color=c792ea" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=justsarx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=89ddff&text_color=cdd6f4&ring_color=c792ea&count_private=true" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=justsarx&theme=midnight-purple&hide_border=true&background=0d1117&ring=c792ea&fire=ff7b72&currStreakLabel=89ddff&sideLabels=cdd6f4&dates=6e7681" width="100%" />
+<!-- FIX: Moved from defunct herokuapp to demolab -->
+<img src="https://streak-stats.demolab.com/?user=justsarx&theme=midnight-purple&hide_border=true&background=0d1117&ring=c792ea&fire=ff7b72&currStreakLabel=89ddff&sideLabels=cdd6f4&dates=6e7681" width="100%" />
 
 </td>
 </tr>
@@ -66,22 +67,27 @@
 
 ---
 
-<!-- PROJECTS SECTION -->
 ## `> ls -la ~/projects/`
 
 <div align="center">
 
-<!-- Row 1: pinned repo cards only — no descriptions to keep heights matched -->
+<!-- Pinned Repo Cards — 3 columns -->
 <table border="0" width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
 <a href="https://github.com/justsarx/Resumify">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=justsarx&repo=Resumify&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=89ddff&text_color=cdd6f4" width="100%"/>
 </a>
 </td>
 
-<td width="50%" align="center">
+<td width="33%" align="center">
+<a href="https://github.com/justsarx/Aedes-POS-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=justsarx&repo=Aedes-POS-System&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=89ddff&text_color=cdd6f4" width="100%"/>
+</a>
+</td>
+
+<td width="33%" align="center">
 <a href="https://github.com/justsarx/mini_db">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=justsarx&repo=mini_db&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=89ddff&text_color=cdd6f4" width="100%"/>
 </a>
@@ -92,11 +98,23 @@
 
 <br/>
 
-<!-- Row 2: Featured highlight cards — uniform blockquote style -->
+<!-- Featured Highlight Cards — 3 columns -->
 <table border="0" width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+> **`[WIP]` Origin AI — Code Review Platform**
+>
+> `Java 21` &nbsp; `Spring Boot 3` &nbsp; `JavaParser` &nbsp; `Gemini API`
+>
+> Automated code review & learning platform. Static analysis via JavaParser + contextual AI feedback from Gemini — built to help devs learn, not just lint.
+>
+> ![Status](https://img.shields.io/badge/status-in_progress-ff7b72?style=flat-square&labelColor=0d1117) &nbsp; ![Stack](https://img.shields.io/badge/stack-backend-89ddff?style=flat-square&labelColor=0d1117)
+
+</td>
+
+<td width="33%" valign="top">
 
 > **`[FEATURED]` Variance — AI Text Humanizer**
 >
@@ -108,13 +126,13 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 > **`[FEATURED]` AOSP / Android ROM Dev**
 >
 > `AOSP` &nbsp; `Linux` &nbsp; `Git` &nbsp; `C/C++`
 >
-> Custom Android ROM builds for **Moto Edge 40 Neo**. First to port QPR (Quarterly Platform Release) updates. Works with build systems, kernel configs, and low-level system components.
+> Custom Android ROM builds for **Moto Edge 40 Neo**. First to port QPR updates. Works with build systems, kernel configs, and low-level system components.
 >
 > ![Device](https://img.shields.io/badge/device-Moto_Edge_40_Neo-89ddff?style=flat-square&labelColor=0d1117) &nbsp; ![Android](https://img.shields.io/badge/AOSP-QPR_Porter-c792ea?style=flat-square&labelColor=0d1117)
 
@@ -131,7 +149,6 @@
 
 <div align="center">
 
-<!-- Languages -->
 **`— Languages —`**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -186,30 +203,46 @@
 
 ## `> top --langs`
 
-<table border="0" align="center" width="100%">
-<tr>
-<td width="50%" align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsarx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd6f4&langs_count=8&hide=c,makefile" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsarx&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd6f4&langs_count=8&hide=c,makefile&count_private=true" width="38%"/>
 
-</td>
-<td width="50%" align="center">
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api?username=justsarx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&icon_color=89ddff&text_color=cdd6f4&show=reviews,discussions_started,prs_merged" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justsarx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c792ea&text_color=cdd6f4&langs_count=8&hide=c,makefile&count_private=true" width="50%"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- PROFILE VIEWS + TROPHY -->
+## `> git log --trophy`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=justsarx&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+<!-- Contribution Snake -->
+## `> watch -n 1 snake ~/contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justsarx/justsarx/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/justsarx/justsarx/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/justsarx/justsarx/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=justsarx&color=c792ea&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/><br/>
-
 
 </div>
 

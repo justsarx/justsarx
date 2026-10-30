@@ -33,17 +33,6 @@
 </picture>
 </p>
 
-<table width="100%">
-<tr>
-<td width="17%" align="center"><strong>C</strong><br /><sub>99%</sub></td>
-<td width="17%" align="center"><strong>Shell</strong><br /><sub>0%</sub></td>
-<td width="17%" align="center"><strong>Makefile</strong><br /><sub>0%</sub></td>
-<td width="17%" align="center"><strong>Visual Basic .NET</strong><br /><sub>0%</sub></td>
-<td width="17%" align="center"><strong>Kotlin</strong><br /><sub>0%</sub></td>
-<td width="17%" align="center"><strong>C++</strong><br /><sub>0%</sub></td>
-</tr>
-</table>
-
 <h2>Repositories worth exploring</h2>
 
 <p align="center">
